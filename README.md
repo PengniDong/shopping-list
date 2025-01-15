@@ -1,2 +1,4 @@
 - Bacon
 - Eggs
+- Apples
+- Peaches
